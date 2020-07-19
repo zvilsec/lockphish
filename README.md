@@ -2,9 +2,6 @@
 
 Lockphish it's the first tool (05/13/2020) for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode using a https link.
 
-<p align="center">
-<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
-</p>
 
 ### Features:
 
